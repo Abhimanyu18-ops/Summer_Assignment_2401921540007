@@ -11,6 +11,7 @@ Test
 | [0053-maximum-subarray](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0283-move-zeroes/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
