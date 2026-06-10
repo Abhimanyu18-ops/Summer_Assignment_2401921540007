@@ -15,6 +15,7 @@ Test
 | [0283-move-zeroes](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +50,8 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0011-container-with-most-water/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
