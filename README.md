@@ -28,6 +28,7 @@ Test
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
@@ -63,4 +64,8 @@ Test
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0054-spiral-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0566-reshape-the-matrix/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
