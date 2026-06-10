@@ -5,10 +5,10 @@ using namespace std;
 class Solution {
 public:
     vector<vector<int>> matrixReshape(vector<vector<int>>& mat, int r, int c) {
-        int m = mat.size();        // number of rows in original matrix
-        int n = mat[0].size();     // number of columns in original matrix
+        int m = mat.size();        
+        int n = mat[0].size();     
 
-        // If reshape is not possible, return original matrix
+    
         if (m * n != r * c) return mat;
 
         vector<vector<int>> result(r, vector<int>(c));
