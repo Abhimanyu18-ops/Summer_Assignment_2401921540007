@@ -25,6 +25,7 @@ Test
 | [0001-two-sum](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Test
 | [0125-valid-palindrome](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -88,5 +90,6 @@ Test
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
