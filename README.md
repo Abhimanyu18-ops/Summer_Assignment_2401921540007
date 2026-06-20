@@ -28,6 +28,7 @@ Test
 | [0242-valid-anagram](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0567-permutation-in-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ Test
 | [0125-valid-palindrome](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0567-permutation-in-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0567-permutation-in-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -82,6 +85,7 @@ Test
 | [0344-reverse-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0567-permutation-in-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
