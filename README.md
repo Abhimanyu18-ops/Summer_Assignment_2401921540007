@@ -137,6 +137,7 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0394-decode-string/) | Medium |
 ## Recursion
@@ -159,4 +160,8 @@ Test
 | [0206-reverse-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
