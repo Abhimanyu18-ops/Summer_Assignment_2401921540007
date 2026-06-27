@@ -16,6 +16,7 @@ Test
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0496-next-greater-element-i/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -32,6 +33,7 @@ Test
 | [0383-ransom-note](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0567-permutation-in-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -140,6 +142,7 @@ Test
 | [0155-min-stack](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0394-decode-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0496-next-greater-element-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,4 +167,8 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
