@@ -99,6 +99,7 @@ Test
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0049-group-anagrams/) | Medium |
@@ -135,6 +136,7 @@ Test
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0394-decode-string/) | Medium |
 ## Recursion
