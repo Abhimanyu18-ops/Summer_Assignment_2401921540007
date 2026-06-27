@@ -38,6 +38,7 @@ Test
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0125-valid-palindrome/) | Easy |
@@ -147,6 +148,7 @@ Test
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0206-reverse-linked-list/) | Easy |
