@@ -213,6 +213,7 @@ Test
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,4 +238,9 @@ Test
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
