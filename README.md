@@ -127,6 +127,7 @@ Test
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -145,6 +146,7 @@ Test
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0496-next-greater-element-i/) | Easy |
@@ -173,6 +175,7 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
