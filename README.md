@@ -48,6 +48,7 @@ Test
 | [0443-string-compression](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0443-string-compression/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0567-permutation-in-string/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -147,4 +148,5 @@ Test
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
