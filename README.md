@@ -46,6 +46,7 @@ Test
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0392-is-subsequence/) | Easy |
@@ -86,6 +87,7 @@ Test
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0242-valid-anagram/) | Easy |
@@ -124,4 +126,8 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0394-decode-string/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
