@@ -35,6 +35,7 @@ Test
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -49,6 +50,7 @@ Test
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -90,6 +92,7 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
