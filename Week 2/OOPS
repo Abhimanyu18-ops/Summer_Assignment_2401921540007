@@ -1,0 +1,59 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+namespace music {
+    class Playable {
+    public:
+        virtual void play() = 0;
+        virtual ~Playable() {}
+    };
+}
+
+namespace music {
+    namespace string {
+        class Veena : public Playable {
+        public:
+            void play() override {
+                cout << "Playing the Veena" << endl;
+            }
+        };
+    }
+}
+
+namespace music {
+    namespace wind {
+        class Saxophone : public Playable {
+        public:
+            void play() override {
+                cout << "Playing the Saxophone" << endl;
+            }
+        };
+    }
+}
+
+namespace live {
+    using namespace music;
+    using namespace music::string;
+    using namespace music::wind;
+
+    class Test {
+    public:
+        void run() {
+            Veena v;
+            Saxophone s;
+            v.play();
+            s.play();
+            Playable* p;
+            p = &v;
+            p->play();
+            p = &s;
+            p->play();
+        }
+    };
+}
+
+int main() {
+    live::Test t;
+    t.run();
+    return 0;
+}
