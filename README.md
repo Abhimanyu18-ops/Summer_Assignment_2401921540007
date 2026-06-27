@@ -19,6 +19,7 @@ Test
 | [0496-next-greater-element-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0496-next-greater-element-i/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Hash Table
@@ -143,6 +144,7 @@ Test
 | [0234-palindrome-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0739-daily-temperatures/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,4 +173,5 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
