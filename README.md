@@ -39,6 +39,7 @@ Test
 | [0125-valid-palindrome](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0567-permutation-in-string/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
@@ -46,6 +47,7 @@ Test
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0392-is-subsequence](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0392-is-subsequence/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Test
 | [0344-reverse-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0567-permutation-in-string/) | Medium |
 ## Trie
