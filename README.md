@@ -35,6 +35,7 @@ Test
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0344-reverse-string/) | Easy |
@@ -82,6 +83,7 @@ Test
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0344-reverse-string/) | Easy |
@@ -102,4 +104,8 @@ Test
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
