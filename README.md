@@ -13,6 +13,7 @@ Test
 | [0049-group-anagrams](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0054-spiral-matrix/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0217-contains-duplicate/) | Easy |
@@ -141,6 +142,7 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -174,6 +176,7 @@ Test
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0739-daily-temperatures/) | Medium |
 ## Math
