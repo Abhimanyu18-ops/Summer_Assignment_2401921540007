@@ -148,6 +148,7 @@ Test
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -206,12 +207,14 @@ Test
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0226-invert-binary-tree/) | Easy |
@@ -224,6 +227,7 @@ Test
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0226-invert-binary-tree/) | Easy |
