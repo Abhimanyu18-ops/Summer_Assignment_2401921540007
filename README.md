@@ -13,6 +13,7 @@ Test
 | [0049-group-anagrams](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0054-spiral-matrix/) | Medium |
+| [0078-subsets](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -173,6 +174,7 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0078-subsets/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,5 +283,6 @@ Test
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
