@@ -72,6 +72,7 @@ Test
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0392-is-subsequence](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ Test
 | [0231-power-of-two](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0394-decode-string/) | Medium |
+| [0509-fibonacci-number](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +207,7 @@ Test
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0509-fibonacci-number/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,4 +294,8 @@ Test
 | [0090-subsets-ii](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0231-power-of-two/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
