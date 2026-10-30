@@ -169,6 +169,7 @@ Test
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0394-decode-string/) | Medium |
 ## Backtracking
@@ -203,6 +204,7 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0231-power-of-two](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0231-power-of-two/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,4 +290,5 @@ Test
 | [0078-subsets](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
