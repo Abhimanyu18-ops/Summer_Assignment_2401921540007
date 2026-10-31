@@ -107,6 +107,7 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0258-add-digits/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0566-reshape-the-matrix/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -208,6 +209,7 @@ Test
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0231-power-of-two](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0509-fibonacci-number/) | Easy |
 ## Data Stream
@@ -300,4 +302,8 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0509-fibonacci-number/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
