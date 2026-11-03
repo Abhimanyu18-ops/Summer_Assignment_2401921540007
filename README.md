@@ -29,6 +29,7 @@ Test
 | [0739-daily-temperatures](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
