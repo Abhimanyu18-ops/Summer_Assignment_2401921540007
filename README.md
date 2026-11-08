@@ -307,4 +307,8 @@ Test
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0258-add-digits/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Abhimanyu18-ops/Summer_Assignment_2401921540007/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
